@@ -1,5 +1,5 @@
 
-# [![nicol saha's header](https://github.com/NicolSaha/NicolSaha/blob/master/headerSmall.jpg)](https://www.nicolsaha.dev/)
+# [![nicol saha's header](https://github.com/NicolSaha/NicolSaha/blob/master/headerSmall.png)](https://www.nicolsaha.dev/)
 
 # ✨ Aloha fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 - Artist at heart, developer with heart, inspired by nature!
