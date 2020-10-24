@@ -1,15 +1,14 @@
 
-# [![nicol saha's header](https://github.com/NicolSaha/NicolSaha/blob/master/headerGit.svg)](https://www.footprintsoflove.com)
+# [![nicol saha's header](https://github.com/NicolSaha/NicolSaha/blob/master/headerGit.svg)](https://www.nicolsaha.dev/)
 
 # ✨ Aloha fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 - 🏢 Currently studying code at [@BeCode.org](https://github.com/becodeorg) in **Ghent.**
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.ai`
 
 ---
 ## 🔭 My Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NicolSaha&show_icons=true&theme=vue&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolSaha&hide=&theme=vue">
 </p>
 
 ---
@@ -34,5 +33,5 @@
 </p>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's [connect](https://www.nicolsaha.dev) and chat! Open to anything under the sun.</i>
   </p>
