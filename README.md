@@ -8,7 +8,7 @@
 ---
 ## 🔭 My Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NicolSaha&show_icons=true&theme=vue&line_height=27">
+  <img src = "https://readme-stats-git-opsy9kn7x.vercel.app/api?username=NicolSaha&show_icons=true&theme=vue&line_height=27">
 </p>
 
 ---
