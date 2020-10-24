@@ -2,7 +2,7 @@
 # [![nicol saha's header](https://github.com/NicolSaha/NicolSaha/blob/master/headerGit.svg)](https://www.nicolsaha.dev/)
 
 # ✨ Aloha fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-- 🏢 Currently studying code at [@BeCode.org](https://github.com/becodeorg) in **Ghent.**
+- 🏢 Currently enrolled in a full-stack webdev course at [@BeCode.org](https://github.com/becodeorg) in **Ghent.**
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.ai`
 
 ---
