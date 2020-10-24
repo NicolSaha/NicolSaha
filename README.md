@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <i>Let's [connect](https://www.nicolsaha.dev) and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to anything under the sun.</i>
   </p>
