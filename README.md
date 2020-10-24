@@ -26,12 +26,12 @@
 ---
 
 ## 🌍 Connect!
-<p align='center'>
-<a href="https://www.nicolsaha.dev"><img height="30" src="email.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nicol-saha-87a35b1a9/"><img height="30" src="linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.footprintsoflove.com"><img height="30" src="photography.svg"></a>
-</p>
-
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  </p>
+</p>
+  
+  <p align='center'>
+<a href="https://www.nicolsaha.dev"><img height="30" src="email.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicol-saha-87a35b1a9/"><img height="35" src="linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.footprintsoflove.com"><img height="30" src="photography.svg"></a>
+</p>
