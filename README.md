@@ -27,9 +27,9 @@
 
 ## 🌍 Connect!
 <p align='center'>
-<a href="https://dev.to/NicolSaha"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/footprintsoflovephotography"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nicol-saha-87a35b1a9/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.nicolsaha.dev"><img height="30" src="email.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicol-saha-87a35b1a9/"><img height="30" src="linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.footprintsoflove.com"><img height="30" src="photography.svg"></a>
 </p>
 
 <p align="center">
