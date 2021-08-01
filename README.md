@@ -3,14 +3,8 @@
 
 # ✨ Aloha fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 - Artist at heart, developer with heart, inspired by nature!
-- 🏢 Currently enrolled in a full-stack webdev course at [@BeCode.org](https://github.com/becodeorg) in **Ghent.**
+- 🏢 Currently working as UI/UX designer and front-end developer for [Live the World!](https://app.livetheworld.com/explore)
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.ai`
-
----
-## 🔭 My Github Stats
-<p align = "center">
-  <img src = "https://readme-stats-git-opsy9kn7x.vercel.app/api?username=NicolSaha&show_icons=true&theme=vue&line_height=27">
-</p>
 
 ---
 
@@ -43,5 +37,4 @@
   <p align='center'>
     <a href="https://www.nicolsaha.dev"><img width="30px" height="30px" src="email.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nicol-saha-87a35b1a9/"><img width="30px" height="30px" src="linkedin.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.footprintsoflove.com"><img width="30px" height="30px" src="photography.svg"></a>
 </p>
